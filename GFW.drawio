@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T04:23:26.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8rGUWy3bjf-gczufAKrU" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T04:26:05.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LEUJsCN_JdXzk5ee16vH" version="20.2.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1248" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
             <mxPoint x="973" y="595.1734068627452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="&amp;nbsp;Internet Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
+        <mxCell id="6a7d8f32e03d9370-62" value="&amp;nbsp;Internet &lt;strike&gt;Architecture&lt;/strike&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="515" y="20" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kz6HAZFZpjECSfvnLKbt-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.router;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="460" y="190.75" width="55" height="36.5" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="1420" y="431" width="55" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="Kz6HAZFZpjECSfvnLKbt-24" value="DNS server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
-          <mxGeometry x="960" y="91" width="90.14" height="109" as="geometry" />
+          <mxGeometry x="920" y="118.25" width="90.14" height="109" as="geometry" />
         </mxCell>
         <mxCell id="Kz6HAZFZpjECSfvnLKbt-25" value="GFW" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;" vertex="1" parent="1">
           <mxGeometry x="950" y="276.75" width="220.37" height="273.25" as="geometry" />
